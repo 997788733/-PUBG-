@@ -338,3 +338,324 @@ PUBG.FenBianLv = 1.00
 -- 压枪强度 | 这个是四倍模式压枪总系数，调整此值会影响所有的武器，谨慎调整；
 
 PUBG.FenBianLv4X = 1.00
+
+--------------------------------------------------------------------------
+
+----- 站、蹲、屏息压不住，请把系数强度改大，压过头的话就改小	-------------------
+
+--------------------------------------------------------------------------
+
+PUBG.akm = 1.42       	--空配站着
+
+PUBG.akmbx = 1.89     	--空配屏息
+
+PUBG.akmdx = 1.05     	--空配蹲下
+
+PUBG.akmal = 1.42      --满配站着
+
+PUBG.akmalbx = 1.93   	--满配屏息
+
+PUBG.akmaldx = 1.16   	--满配蹲下
+
+PUBG.akm4x = 3.45   	--空配4倍站
+
+PUBG.akm4xdx = 2.65   	--空配4倍蹲
+
+PUBG.akmal4x = 3.65	--满配4倍站
+
+PUBG.akmal4xdx = 2.80	--满配4倍蹲
+
+
+PUBG.groza = 1.13       --空配站着
+
+PUBG.grozabx = 1.50     --空配屏息
+
+PUBG.grozadx = 0.85     --空配蹲下
+
+PUBG.grozaal = 1.13     --满配站着
+
+PUBG.grozaalbx = 1.50   --满配屏息
+
+PUBG.grozaaldx = 0.85   --满配蹲下
+
+PUBG.groza4x = 2.89     --空配4倍站
+
+PUBG.groza4xdx = 2.00   --空配4倍蹲
+
+PUBG.grozaal4x = 2.89   --满配4倍站
+
+PUBG.grozaal4xdx = 2.00 --满配4倍蹲
+
+
+PUBG.m762 = 1.62       --空配站着
+
+PUBG.m762bx = 2.15     --空配屏息
+
+PUBG.m762dx = 1.35     --空配蹲下
+
+PUBG.m762al = 1.31     --满配站着
+
+PUBG.m762albx = 1.70	--满配屏息
+
+PUBG.m762aldx = 1.10   --满配蹲下
+
+PUBG.m7624x = 4.20		--空配4倍站
+
+PUBG.m7624xdx = 3.50   --空配4倍蹲
+
+PUBG.m762al4x = 3.35	--满配4倍站
+
+PUBG.m762al4xdx = 2.80 --满配4倍蹲
+
+
+PUBG.m249 = 0.72       --空配站着
+
+PUBG.m249bx = 0.97     --空配屏息
+
+PUBG.m249dx = 0.47     --空配蹲下
+
+PUBG.m249al = 0.72     --满配站着
+
+PUBG.m249albx = 0.97   --满配屏息
+
+PUBG.m249aldx = 0.47   --满配蹲下
+
+PUBG.m2494x = 1.65     --空配4倍站
+
+PUBG.m2494xdx = 0.90   --空配4倍蹲
+
+PUBG.m249al4x = 1.81   --满配4倍站
+
+PUBG.m249al4xdx = 0.98 --满配4倍蹲
+
+
+PUBG.m16a4 = 1.20       --空配站着
+
+PUBG.m16a4bx = 1.45     --空配屏息
+
+PUBG.m16a4dx = 0.90     --空配蹲下
+
+PUBG.m16a4al = 0.97     --满配站着
+
+PUBG.m16a4albx = 1.25   --满配屏息
+
+PUBG.m16a4aldx = 0.74   --满配蹲下
+
+PUBG.m16a44x = 3.10     --空配4倍站
+
+PUBG.m16a44xdx = 2.30   --空配4倍蹲
+
+PUBG.m16a4al4x = 2.30   --满配4倍站
+
+PUBG.m16a4al4xdx = 1.70 --满配4倍蹲
+
+
+PUBG.m416 = 0.55       --空配站着
+
+PUBG.m416bx = 0.70     --空配屏息
+
+PUBG.m416dx = 0.45     --空配蹲下
+
+PUBG.m416al = 1.00     --满配站着
+
+PUBG.m416albx = 1.34   --满配屏息
+
+PUBG.m416aldx = 0.87   --满配蹲下
+
+PUBG.m4164x = 1.34     --空配4倍站
+
+PUBG.m4164xdx = 1.05  	--空配4倍蹲
+
+PUBG.m416al4x = 1.77   --满配4倍站
+
+PUBG.m416al4xdx = 1.40 --满配4倍蹲
+
+
+PUBG.aug = 1.93       --空配站着
+
+PUBG.augbx = 2.45     --空配屏息
+
+PUBG.augdx = 1.52     --空配蹲下
+
+PUBG.augal = 1.54     --满配站着
+
+PUBG.augalbx = 2.00   --满配屏息
+
+PUBG.augaldx = 1.35   --满配蹲下
+
+PUBG.aug4x = 2.20     --空配4倍站
+
+PUBG.aug4xdx = 1.75   --空配4倍蹲
+
+PUBG.augal4x = 1.79   --满配4倍站
+
+PUBG.augal4xdx = 1.54 --满配4倍蹲
+
+
+PUBG.g36c = 2.20       --空配站着
+
+PUBG.g36cbx = 2.82     --空配屏息
+
+PUBG.g36cdx = 1.82     --空配蹲下
+
+PUBG.g36cal = 1.62     --满配站着
+
+PUBG.g36calbx = 2.06   --满配屏息
+
+PUBG.g36caldx = 1.34   --满配蹲下
+
+PUBG.g36c4x = 5.00     --空配4倍站
+
+PUBG.g36c4xdx = 3.80   --空配4倍蹲
+
+PUBG.g36cal4x = 4.00   --满配4倍站
+
+PUBG.g36cal4xdx = 3.44 --满配4倍蹲
+
+
+PUBG.qbz95 = 1.48       --空配站着
+
+PUBG.qbz95bx = 1.98     --空配屏息
+
+PUBG.qbz95dx = 1.18     --空配蹲下
+
+PUBG.qbz95al = 1.23     --满配站着
+
+PUBG.qbz95albx = 1.65   --满配屏息
+
+PUBG.qbz95aldx = 1.05   --满配蹲下
+
+PUBG.qbz954x = 1.37     --空配4倍站
+
+PUBG.qbz954xdx = 1.02   --空配4倍蹲
+
+PUBG.qbz95al4x = 1.77   --满配4倍站
+
+PUBG.qbz95al4xdx = 1.41 --满配4倍蹲
+
+
+PUBG.scarl = 1.50       --空配站着
+
+PUBG.scarlbx = 2.02     --空配屏息
+
+PUBG.scarldx = 1.20     --空配蹲下
+
+PUBG.scarlal = 1.48     --满配站着
+
+PUBG.scarlalbx = 1.35   --满配屏息
+
+PUBG.scarlaldx = 1.25   --满配蹲下
+
+PUBG.scarl4x = 4.97     --空配4倍站
+
+PUBG.scarl4xdx = 3.85   --空配4倍蹲
+
+PUBG.scarlal4x = 4.01   --满配4倍站
+
+PUBG.scarlal4xdx = 3.34 --满配4倍蹲
+
+
+PUBG.ump45 = 0.96       --空配站着
+
+PUBG.ump45bx = 1.25     --空配屏息
+
+PUBG.ump45dx = 0.80     --空配蹲下
+
+PUBG.ump45al = 0.74     --满配站着
+
+PUBG.ump45albx = 0.95   --满配屏息
+
+PUBG.ump45aldx = 0.68   --满配蹲下
+
+PUBG.ump454x = 2.75     --空配4倍站
+
+PUBG.ump454xdx = 2.15   --空配4倍蹲
+
+PUBG.ump45al4x = 1.95   --满配4倍站
+
+PUBG.ump45al4xdx = 1.57 --满配4倍蹲
+
+
+PUBG.pp19 = 5.40       --空配站着
+
+PUBG.pp19bx = 6.65     --空配屏息
+
+PUBG.pp19dx = 4.00     --空配蹲下
+
+PUBG.pp19al = 4.30     --满配站着
+
+PUBG.pp19albx = 5.35   --满配屏息
+
+PUBG.pp19aldx = 3.34   --满配蹲下
+
+PUBG.pp194x = 13.3     --空配4倍站
+
+PUBG.pp194xdx = 10.5   --空配4倍蹲
+
+PUBG.pp19al4x = 10.2   --满配4倍站
+
+PUBG.pp19al4xdx = 8.70 --满配4倍蹲
+
+
+PUBG.vss = 0.55       --空配站着
+
+PUBG.vssbx = 0.50     --空配屏息
+
+PUBG.vssdx = 0.40     --空配蹲下
+
+PUBG.vssal = 0.45     --满配站着
+
+PUBG.vssalbx = 0.40   --满配屏息
+
+PUBG.vssaldx = 0.30   --满配蹲下
+
+PUBG.vss4x = 0.55     --空配4倍站
+
+PUBG.vss4xdx = 0.38   --空配4倍蹲
+
+PUBG.vssal4x = 0.45   --满配4倍站
+
+PUBG.vssal4xdx = 0.33 --满配4倍蹲
+
+
+PUBG.sks = 1.65       --空配站着
+
+PUBG.sksbx = 2.35     --空配屏息
+
+PUBG.sksdx = 1.10     --空配蹲下
+
+PUBG.sksal = 1.03     --满配站着
+
+PUBG.sksalbx = 1.45   --满配屏息
+
+PUBG.sksaldx = 0.75   --满配蹲下
+
+PUBG.sks4x = 4.20     --空配4倍站
+
+PUBG.sks4xdx = 2.85   --空配4倍蹲
+
+PUBG.sksal4x = 2.70   --满配4倍站
+
+PUBG.sksal4xdx = 1.75 --满配4倍蹲
+
+
+PUBG.mini = 1.30       --空配站着
+
+PUBG.minibx = 1.75     --空配屏息
+
+PUBG.minidx = 1.00     --空配蹲下
+
+PUBG.minial = 1.55     --满配站着
+
+PUBG.minialbx = 1.85   --满配屏息
+
+PUBG.minialdx = 1.12   --满配蹲下
+
+PUBG.mini4x = 3.35     --空配4倍站
+
+PUBG.mini4xdx = 2.45   --空配4倍蹲
+
+PUBG.minial4x = 3.85   --满配4倍站
+
+PUBG.minial4xdx = 2.75 --满配4倍蹲
+
